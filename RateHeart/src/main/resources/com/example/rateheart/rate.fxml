@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<Pane xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.rateheart.TargetHeartRateCalculatorAppController">
+   <children>
+      <VBox layoutX="14.0" layoutY="14.0" prefHeight="200.0" prefWidth="166.0">
+         <children>
+            <Label text="Your age" />
+            <Label text="Heart Rate" />
+         </children>
+      </VBox>
+      <VBox layoutX="184.0" layoutY="14.0" prefHeight="200.0" prefWidth="166.0">
+         <children>
+            <TextField fx:id="age" />
+            <TextField fx:id="rate" />
+            <Button fx:id="button" mnemonicParsing="false" onAction="#calculate" text="Calculate" />
+         </children>
+      </VBox>
+   </children>
+</Pane>
