@@ -1,11 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7448c74-42bf-46e6-98e4-5d46a5c655e4" name="Changes" comment="" />
+    <list default="true" id="c7448c74-42bf-46e6-98e4-5d46a5c655e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JavaFX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_base_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_base_win_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_controls_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_controls_win_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_graphics_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_graphics_win_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_media_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_media_win_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_web_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jfxcore_javafx_web_win_18_ea_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/ColorChooser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/src/main/java/com/example/colorchooser/AdvancedColorChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/src/main/java/com/example/colorchooser/AdvancedColorChooserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ColorChooser/src/main/resources/com/example/colorchooser/AdvancedColorChooser.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/ContactApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/src/main/java/com/example/contactapp/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/src/main/java/com/example/contactapp/ContactsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/src/main/java/com/example/contactapp/ContactsAppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContactApp/src/main/resources/com/example/contactapp/ContactsApp.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/src/main/java/com/example/miniwebbrowser/MiniWebBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/src/main/java/com/example/miniwebbrowser/MiniWebBrowserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniWebBrowser/src/main/resources/com/example/miniwebbrowser/MiniWebBrowser.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/Painter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/src/main/java/com/example/painter/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/src/main/java/com/example/painter/PainterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Painter/src/main/resources/com/example/painter/Painter.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/TipCalculatorMod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/src/main/java/com/example/tipcalculatormod/TipCalculatorModification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/src/main/java/com/example/tipcalculatormod/TipCalculatorModificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TipCalculatorMod/src/main/resources/com/example/tipcalculatormod/tipCalculatorModification.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/contactsmod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/java/com/example/contactsmod/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/java/com/example/contactsmod/ContactsAppModification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/java/com/example/contactsmod/ContactsAppModificationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/java/com/example/contactsmod/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/java/com/example/contactsmod/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contactsmod/src/main/resources/com/example/contactsmod/ContactsAppModification.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IrDvCjqmp23g4Sb2vPcm2clYZr" />
   <component name="ProjectViewState">
@@ -15,7 +125,73 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\Java\JavaFX" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Java\JavaFX\contactsmod\src\main\java\com\example\contactsmod\img" />
+      <recent name="D:\Coding\Java\JavaFX" />
+      <recent name="D:\Coding\Java\JavaFX\ContactsMod\ContactsModification\src\main\java\com\example\contactsmodification" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TipCalculatorModification">
+    <configuration name="AdvancedColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.colorchooser.AdvancedColorChooser" />
+      <module name="ColorChooser" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;%PHYSICAL_PATH_TO_JAVAFX%\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactsAppModification (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.contactsmod.ContactsAppModification" />
+      <module name="contactsmod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactsAppModification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.contactsmodification.ContactsAppModification" />
+      <module name="ContactsModification" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniWebBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.miniwebbrowser.MiniWebBrowser" />
+      <module name="MiniWebBrowser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipCalculatorModification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.tipcalculatormod.TipCalculatorModification" />
+      <module name="TipCalculatorMod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AdvancedColorChooser" />
+      <item itemvalue="Application.ContactsAppModification" />
+      <item itemvalue="Application.ContactsAppModification (1)" />
+      <item itemvalue="Application.MiniWebBrowser" />
+      <item itemvalue="Application.TipCalculatorModification" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TipCalculatorModification" />
+        <item itemvalue="Application.MiniWebBrowser" />
+        <item itemvalue="Application.AdvancedColorChooser" />
+        <item itemvalue="Application.ContactsAppModification (1)" />
+        <item itemvalue="Application.ContactsAppModification" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,5 +206,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

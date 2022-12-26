@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ColorChooser/ColorChooser.iml" filepath="$PROJECT_DIR$/ColorChooser/ColorChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactApp/ContactApp.iml" filepath="$PROJECT_DIR$/ContactApp/ContactApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFX.iml" filepath="$PROJECT_DIR$/.idea/JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" filepath="$PROJECT_DIR$/MiniWebBrowser/MiniWebBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Painter/Painter.iml" filepath="$PROJECT_DIR$/Painter/Painter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TipCalculatorMod/TipCalculatorMod.iml" filepath="$PROJECT_DIR$/TipCalculatorMod/TipCalculatorMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactsmod/contactsmod.iml" filepath="$PROJECT_DIR$/contactsmod/contactsmod.iml" />
+    </modules>
+  </component>
+</project>
